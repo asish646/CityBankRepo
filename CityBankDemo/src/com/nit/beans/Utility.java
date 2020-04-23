@@ -5,7 +5,8 @@ import java.util.Date;
 public class Utility {
 
 	public Date getDate() {
-		System.out.println("This is getDate method : abcd");
+		System.out.println("This is getDate method : 1234");
 		return new Date();
+		
 	}
 }
